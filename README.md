@@ -1,20 +1,28 @@
 # Breast Cancer Classification 🧬
 
-This project uses Machine Learning to classify breast tumors as malignant or benign.
+This project applies Machine Learning techniques to classify breast tumors as **malignant** or **benign**.
 
-## Dataset
+---
+
+## 📊 Dataset
 Breast Cancer Wisconsin Dataset
 
-## Tools
-- Python
-- Pandas
-- NumPy
-- Scikit-learn
-- Matplotlib
+---
 
-## Models
-- Logistic Regression
-- SVM
+## ⚙️ Tools
+- Python  
+- Pandas  
+- NumPy  
+- Scikit-learn  
+- Matplotlib  
 
-## Result
-The model achieved high accuracy in classification.
+---
+
+## 🤖 Models
+- Logistic Regression  
+- Support Vector Machine (SVM)  
+
+---
+
+## 📈 Result
+The trained model achieved **high accuracy**, demonstrating the effectiveness of machine learning in breast cancer classification.
